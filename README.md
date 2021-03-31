@@ -47,7 +47,7 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-Materials must be submitted by the end of **Friday, January 15, 2021 (9:59 am EST)**.
+Materials must be submitted by the end of **Friday, April 9, 2021 (9:59 am EST)**.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
